@@ -824,7 +824,7 @@ def add(a, b=2):
 print(add(3))
 ```
 
-- [ ] `5`
+- [ ] `4`
 - [ ] `3`
 - [x] `5`
 - [ ] `TypeError`
@@ -906,7 +906,7 @@ print(x % y)
 print(bool(0), bool(1))
 ```
 
-- [ ] `False True`
+- [ ] `False False`
 - [ ] `True False`
 - [x] `False True`
 - [ ] `True True`
