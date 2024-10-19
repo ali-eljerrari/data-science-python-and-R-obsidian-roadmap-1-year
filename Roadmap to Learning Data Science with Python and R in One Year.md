@@ -6,7 +6,7 @@
 ### **1. Learn Python and R Programming**
 
 **Topics:**
-- [ ] Basic syntax and data types
+- [ ] [[Basic syntax and data types]]
 - [ ] Control structures (loops, conditionals)
 - [ ] Functions and modules
 - [ ] File handling
