@@ -8,7 +8,7 @@
 **Topics:**
 - [x] [[Basic syntax and data types]]
 - [ ] [[Control structures (loops, conditionals)]]
-- [ ] Functions and modules
+- [ ] [[Functions and modules]]
 - [ ] File handling
 - [ ] Object-oriented programming (Python)
 - [ ] Data structures and functions (R)
