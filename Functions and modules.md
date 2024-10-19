@@ -1,4 +1,3 @@
-# Functions and Modules in Python
 
 Understanding **functions** and **modules** is essential for writing organized, reusable, and efficient code in Python. Functions allow you to encapsulate code for reuse, while modules enable you to organize functions, classes, and variables into separate files.
 
