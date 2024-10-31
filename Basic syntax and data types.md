@@ -6,36 +6,36 @@ Understanding the basic syntax and data types of a programming language is funda
 
 ## Table of Contents
 
-1. [Introduction to Programming Syntax](#1-introduction)
-2. [Variables and Naming Conventions](#2-variables)
-3. [Basic Data Types](#3-data-types)
-   - [Numbers](#3-1-numbers)
-   - [Strings](#3-2-strings)
-   - [Booleans](#3-3-booleans)
-   - [NoneType (Null)](#3-4-none)
-4. [Composite Data Types](#4-composite-data-types)
-   - [Lists (Arrays)](#4-1-lists)
-   - [Tuples](#4-2-tuples)
-   - [Dictionaries (Maps)](#4-3-dictionaries)
-   - [Sets](#4-4-sets)
-5. [Operators](#5-operators)
-   - [Arithmetic Operators](#5-1-arithmetic)
-   - [Comparison Operators](#5-2-comparison)
-   - [Logical Operators](#5-3-logical)
-   - [Assignment Operators](#5-4-assignment)
-6. [Control Flow Statements](#6-control-flow)
-   - [`if`, `elif`, `else` Statements](#6-1-if)
-   - [`for` Loops](#6-2-for-loops)
-   - [`while` Loops](#6-3-while-loops)
-   - [`break` and `continue`](#6-4-break-continue)
-7. [Functions](#7-functions)
-   - [Defining Functions](#7-1-defining-functions)
-   - [Function Arguments](#7-2-function-arguments)
-   - [Return Statements](#7-3-return-statements)
-8. [Comments and Docstrings](#8-comments)
-9. [Indentation and Code Blocks](#9-indentation)
-10. [Best Practices](#10-best-practices)
-11. [Conclusion](#11-conclusion)
+1. [[#1. Introduction to Programming Syntax]]
+2. [[#2. Variables and Naming Conventions]]
+3. [Basic Data Types
+   - [Numbers]
+   - [Strings]
+   - [Booleans]
+   - [NoneType (Null)]
+4. [Composite Data Types]
+   - [Lists (Arrays)]
+   - [Tuples]
+   - [Dictionaries (Maps)]
+   - [Sets]
+5. [Operators]
+   - [Arithmetic Operators]
+   - [Comparison Operators]
+   - [Logical Operators]
+   - [Assignment Operators]
+6. [Control Flow Statements]
+   - [`if`, `elif`, `else` Statements]
+   - [`for` Loops]
+   - [`while` Loops]
+   - [`break` and `continue`]
+7. [Functions]
+   - [Defining Functions]
+   - [Function Arguments]
+   - [Return Statements]
+8. [Comments and Docstrings]
+9. [Indentation and Code Blocks]
+10. [Best Practices]
+11. [Conclusion]
 
 ---
 
